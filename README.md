@@ -35,6 +35,7 @@ Follow this tutorial to create your first client application!
 - Choose Add
 - Select the HelloWorld folder
 - Click 'Add Repository'
+- Edit the `.gitignore` file and remove the `dist` line
 - Write a commit message (e.g. "First Commit") and click [Commit]
 - Click the top right [Publish] button, then publish the repository
 - (Windows only) click the top right [Sync] button to push the code
